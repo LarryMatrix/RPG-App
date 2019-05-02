@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RPG</string>
+    <string name="rpg_rapid_password_generator">RPG - Rapid Password Generator</string>
+    <string name="generate">Generate</string>
+    <string name="generated_text">Generated Text</string>
+    <string name="ungenerate">UnGenerate</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+</resources>
